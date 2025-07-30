@@ -28,6 +28,9 @@
 
 ---
 
+### 🚀 Stats
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/bicolasnastien?theme=neutral)
+
 ### 🌟 Interests
 
 - 🏓 Table tennis

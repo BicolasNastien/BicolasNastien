@@ -11,7 +11,6 @@
 
 - Passionate about **design patterns** and **refactoring methods**
 - Always learning — just started exploring the magazine [Hackable](https://www.hackable.fr/)
-- I love building robust, scalable web applications and sharing best practices
 
 ---
 

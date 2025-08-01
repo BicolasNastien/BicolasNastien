@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nicolas Bastien (BicolasNastien)
+# 👋 Hi, I’m Nicolas Bastien
 
 **Fullstack Web Developer**  
 - Specialized in PHP (Symfony), Vue.js, React & React Native

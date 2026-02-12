@@ -9,11 +9,11 @@
 ### About Me
 
 - Passionate about **design patterns** and **refactoring methods**
-- Always learning — just started exploring the magazine [Hackable](https://www.hackable.fr/)
+- Always learning - just started exploring the magazine [Hackable](https://www.hackable.fr/)
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
@@ -24,11 +24,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-
 ---
-
-### Stats
-![Enter some description](https://leetcode-badge-sage.vercel.app/badge/bicolasnastien?theme=neutral)
 
 ### Interests
 

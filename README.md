@@ -46,13 +46,4 @@
 
 ---
 
-> “Design patterns and refactoring aren’t just techniques — they’re a mindset for building better software.” **- Me (almost)**
-
-> “You can't just blame your ~~fate~~ codebase on other people all the time and expect them to solve everything. That's a sign of weakness, don't you think?” **- Co(de)by**
-
-<div align="center">
-  <img width="300" height="300" alt="coby the goat smiling" src="https://github.com/user-attachments/assets/35cd120e-2638-47a4-b343-80f2d175d639" />
-</div>
-
-
 
